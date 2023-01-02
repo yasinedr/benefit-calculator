@@ -579,7 +579,7 @@ if( !class_exists("benefit_calculator") ) {
 				
 				<h1 class="big-title">Benefit calculator Settings</h1>
 				
-				<p><?php _e( "This plugin is for Tadarab Benefit calculator." ); ?></p>
+				<p><?php _e( "This plugin calculate the benefit for customers." ); ?></p>
 												
 				<div id="tadarab_main_options">				
 					
